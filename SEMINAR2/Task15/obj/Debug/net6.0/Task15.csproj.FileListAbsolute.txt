@@ -1,0 +1,15 @@
+C:\CS2\SEMINAR2\Task15\bin\Debug\net6.0\Task15.exe
+C:\CS2\SEMINAR2\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\CS2\SEMINAR2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\CS2\SEMINAR2\Task15\bin\Debug\net6.0\Task15.dll
+C:\CS2\SEMINAR2\Task15\bin\Debug\net6.0\Task15.pdb
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.dll
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.pdb
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\CS2\SEMINAR2\Task15\obj\Debug\net6.0\ref\Task15.dll
