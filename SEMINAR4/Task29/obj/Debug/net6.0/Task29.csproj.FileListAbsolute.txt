@@ -1,0 +1,15 @@
+C:\CS4\SEMINAR4\Task29\bin\Debug\net6.0\Task29.exe
+C:\CS4\SEMINAR4\Task29\bin\Debug\net6.0\Task29.deps.json
+C:\CS4\SEMINAR4\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+C:\CS4\SEMINAR4\Task29\bin\Debug\net6.0\Task29.dll
+C:\CS4\SEMINAR4\Task29\bin\Debug\net6.0\Task29.pdb
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.dll
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\refint\Task29.dll
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.pdb
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+C:\CS4\SEMINAR4\Task29\obj\Debug\net6.0\ref\Task29.dll
