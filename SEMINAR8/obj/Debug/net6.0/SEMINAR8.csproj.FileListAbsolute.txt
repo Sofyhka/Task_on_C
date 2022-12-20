@@ -1,0 +1,15 @@
+C:\CS8\SEMINAR8\bin\Debug\net6.0\SEMINAR8.exe
+C:\CS8\SEMINAR8\bin\Debug\net6.0\SEMINAR8.deps.json
+C:\CS8\SEMINAR8\bin\Debug\net6.0\SEMINAR8.runtimeconfig.json
+C:\CS8\SEMINAR8\bin\Debug\net6.0\SEMINAR8.dll
+C:\CS8\SEMINAR8\bin\Debug\net6.0\SEMINAR8.pdb
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.csproj.AssemblyReference.cache
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.AssemblyInfoInputs.cache
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.AssemblyInfo.cs
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.csproj.CoreCompileInputs.cache
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.dll
+C:\CS8\SEMINAR8\obj\Debug\net6.0\refint\SEMINAR8.dll
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.pdb
+C:\CS8\SEMINAR8\obj\Debug\net6.0\SEMINAR8.genruntimeconfig.cache
+C:\CS8\SEMINAR8\obj\Debug\net6.0\ref\SEMINAR8.dll

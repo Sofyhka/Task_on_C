@@ -1,0 +1,15 @@
+C:\CS8\SEMINAR8\Task54\bin\Debug\net6.0\Task54.exe
+C:\CS8\SEMINAR8\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\CS8\SEMINAR8\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\CS8\SEMINAR8\Task54\bin\Debug\net6.0\Task54.dll
+C:\CS8\SEMINAR8\Task54\bin\Debug\net6.0\Task54.pdb
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.dll
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.pdb
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\CS8\SEMINAR8\Task54\obj\Debug\net6.0\ref\Task54.dll
